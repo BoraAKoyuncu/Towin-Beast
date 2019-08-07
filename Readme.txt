@@ -1,0 +1,1 @@
+To start the game, go inside the TOWIN file and then double click on Towin.exe
